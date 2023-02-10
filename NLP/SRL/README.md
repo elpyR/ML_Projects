@@ -1,4 +1,4 @@
-# SRL-BERT and SentenceTransformers for labelling text data and generating embeddings for TensorBoard Embedings Projector.
+## SRL-BERT and SentenceTransformers for labelling text data and generating embeddings for TensorBoard Embedings Projector.
 
 This script was developed using Jupyter Notebooks in Colab, and BERT models from allenNLP and HuggingFace:
 
